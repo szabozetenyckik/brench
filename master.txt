@@ -1,4 +1,8 @@
 ez egy sor
 második sor
+<<<<<<< HEAD
 harmadik sor (master)
 negyedik sor (master)
+=======
+harmadik sor (Gábor)
+>>>>>>> bugfix
