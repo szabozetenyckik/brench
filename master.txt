@@ -1,2 +1,3 @@
 ez egy sor
 második sor
+harmadik sor (master)
